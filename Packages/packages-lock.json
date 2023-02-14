@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.hp.simple": {
+      "version": "https://github.com/heqianhh/Test.git?path=/Assets/com.hp.simple#master",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "6cb8e0b2013f776a96dc43c28cc420973db4400d"
+    },
     "com.unity.collab-proxy": {
       "version": "1.17.6",
       "depth": 0,

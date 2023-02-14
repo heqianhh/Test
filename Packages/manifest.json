@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.hp.simple": "https://github.com/heqianhh/Test.git?path=/Assets/com.hp.simple#master",
     "com.unity.collab-proxy": "1.17.6",
     "com.unity.ide.rider": "3.0.16",
     "com.unity.ide.visualstudio": "2.0.16",
